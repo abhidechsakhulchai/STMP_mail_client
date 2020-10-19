@@ -22,7 +22,7 @@ print(recv1)
 if recv1[:3] != '250':
  print('250 reply not received from server.')
  
-# Send MAIL FROM command and print server response.
+<p># Send MAIL FROM command and print server response.
 # Fill in start
 # Fill in end
 # Send RCPT TO command and print server response.
@@ -39,4 +39,5 @@ if recv1[:3] != '250':
 # Fill in end
 # Send QUIT command and get server response.
 # Fill in start
-# Fill in end
+# Fill in end 
+</p>
